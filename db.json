@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "quan update dfasdfa",
+      "price": 100
+    },
+    {
+      "name": "quan123",
+      "price": "111",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "quan@gmail.com",
+      "password": "$2a$10$mokmxlcglcCs9BYMrkWJ3ucj0RB3uvlx6A1zHLXO4eIXZraHfiSva",
+      "name": "quan",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$jcF7gELciQv24K4aewGDSOUaareji7GE5VQEpM4xLDo9w3bpavB6y",
+      "name": "quan",
+      "role": "member",
+      "id": 2
+    }
+  ]
+}
